@@ -1,1 +1,1 @@
-# Supported-moderators-by-keeping-chats-active.
+# Supported-moderators-by-keeping-chats-active.h
